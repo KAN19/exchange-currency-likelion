@@ -9,3 +9,9 @@
 - Service registry
 - Gateway 
 - Spring Data JPA 
+
+
+## Including git repository of the Likelion training course: 
+- Week 1-2 to week 2-2: https://github.com/KAN19/naver-spring-excercise
+- Project 1: https://github.com/KAN19/naver-project-01
+- Week 4-1: https://github.com/KAN19/likelion-training/tree/week4-1
